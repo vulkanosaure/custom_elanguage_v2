@@ -1,4 +1,4 @@
-#TODO
+# TODO
 
 [x] actions
 [x] reducer
@@ -30,11 +30,17 @@
 
 [ ] template avec tout ce qu'il faut rajouter a la template basique
 
-[] changer default dans angular-cli ?
+[x] changer default dans angular-cli ?
 
 [ ] typer state + actions (action, utiliser type Action, nécéssaire pour effects)
 
 [] ngrx/effects Actions / ofType : faire appels des stats avec
 
+
+
+[] brique codeigniter : detection url dedans (voir mdld)
+comment j'ai fait pour appeler getConfig sans avoir la config... ?
+configuration d'une url... ?
+tuto pour voir comment alier a une app react ou angular
 
 
